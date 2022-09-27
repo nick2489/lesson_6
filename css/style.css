@@ -6,7 +6,7 @@ body {
 
 .header {
    font-size: 25px;
-	font-weight: 900px;
+	font-weight: 900;
 	color: #9C4A1A;
 	max-width: 800px;
 	background-color: #F7C815;
@@ -98,14 +98,14 @@ body {
 	background-color: #9C4A1A;
 	width: 400px;
 	font-size: 40px;
-	font-weight: 700px;
+	font-weight: 700;
 	box-shadow: 20px 20px 20px 20px #1E212C;
 	overflow: scroll;
 	height: 200px;
 }
 
 .text8 {
-	font-weight: 700px;
+	font-weight: 700;
 	font-size: 30px;
 	margin: 60px 0 50px 30px;
 	padding: 15px;
@@ -123,7 +123,7 @@ body {
 	background-color: #94fcfc;
 	width: 400px;
 	font-size: 40px;
-	font-weight: 700px;
+	font-weight: 700;
 	overflow: auto;
 	height: 200px;
 }
